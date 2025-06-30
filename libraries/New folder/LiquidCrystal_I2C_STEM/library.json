@@ -1,0 +1,11 @@
+{
+  "name": "LiquidCrystal_I2C_STEM",
+  "keywords": "LCD, Liquid crystal, I2C, STEM",
+  "description": "A library for DFRobot I2C LCD displays",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ijiki16/LiquidCrystal_I2C_STEM.git"
+  },
+  "frameworks": "arduino",
+  "platforms": ["atmelavr", "espressif8266"]
+}
